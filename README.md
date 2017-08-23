@@ -1,2 +1,2 @@
 # adyen-signature
-Easy way to sign adyen request
+A clojure library designed to sign adyen requests
